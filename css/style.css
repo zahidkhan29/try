@@ -1,0 +1,46 @@
+body{
+	padding-top: 85px;
+	font-family: 'Gothic A1', sans-serif; ;
+}
+header{
+
+	padding: 5px 0;
+  background:#C3B1E1;
+
+}
+
+.cnav{}
+.logo{
+	width: 120px;
+}
+.ntgl:focus { 
+	box-shadow: none;
+}
+.menu{}
+.menu ul li a{
+	padding: 0 25px !important ;
+	color: #000000 !important;
+	line-height: 24px;
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+
+
+/*header end*/
+
+/*banner*/
+.banner{
+
+}
+.car{
+
+}
+.car{}
+.center-car {
+	bottom: 50% !important;
+}
+.in_mag h1{
+	font-size: 50px;
+}
+/*banner end*/
